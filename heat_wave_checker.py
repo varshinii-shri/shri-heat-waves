@@ -75,3 +75,4 @@ if __name__ == "__main__":
     print("Temperature data:", sample_temps)
     print("=" * 50)
     print_heat_waves(waves)
+shan
